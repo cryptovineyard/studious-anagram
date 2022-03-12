@@ -297,7 +297,11 @@
                         marginTop: 0,
                         children: "Withdraw Daily⏳    "
                     }),
-                 
+                        Object(B.jsx)(V.a, {
+                        variant: "h6",
+                        marginTop: 0,
+                        children: "[App status CLOSED: We are opening soon"
+                    }),
                 
                 
                 ]
