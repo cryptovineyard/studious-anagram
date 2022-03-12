@@ -295,7 +295,7 @@
                         Object(B.jsx)(V.a, {
                         variant: "h6",
                         marginTop: 0,
-                        children: "Withdraw daily⏳    "
+                        children: "Withdraw Daily⏳    "
                     }),
                  
                 
