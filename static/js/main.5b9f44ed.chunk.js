@@ -300,7 +300,7 @@
                         Object(B.jsx)(V.a, {
                         variant: "h6",
                         marginTop: 0,
-                        children: "[App status CLOSED: Opening Soon"
+                        children: "[App status CLOSED: Opening Soon]"
                     }),
                 
                 
