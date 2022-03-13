@@ -697,7 +697,7 @@
                                 }), Object(B.jsxs)(V.a, {
                                     variant: "h5",
                                     fontWeight: "bolder",
-                                    children: ["50", " MATIC"]
+                                    children: ["800", " MATIC"]
                                 })]
                             }),
                             
