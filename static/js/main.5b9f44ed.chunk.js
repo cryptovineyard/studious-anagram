@@ -923,7 +923,7 @@
                             variant: "body2",
                             marginTop: 2,
                             paddingX: 3,
-                            children: "•Every deposit/withdrawal is has a base tax of 8% to ensure contract longevity, along with an insurance fee"
+                            children: "•Every deposit/withdrawal is has a base tax of 8% to ensure contract longevity, along with an insurance fee (listed below)"
                             
                         }),
                            
