@@ -995,6 +995,21 @@
                     }), Object(B.jsx)(G.a, {
                         item: !0,
                         children: Object(B.jsx)("a", {
+                            href: "https://hazecrypto.net/audit/vineyard",
+                            target: "__blank",
+                            children: Object(B.jsx)("img", {
+                                src: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAS9QTFRFAAAAFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeFyFeueiudwAAAGV0Uk5TADBggBCv/+8gn8LFojty38CTSLZAqVkMo8mPdZxwRHjHmneNg17DTDUmPFwsRmRhIZVBZhcocYaeBClrp2m8ebg3fL44UFVSG7MISbGtCYdvaKuCPiQybRWgukuWi4kdUU8PV5gwB6I4AAAC4UlEQVR4nMWWaVsTQQyA0902bVl7cFdEQKVFbhCsRW7wKreIHCqiyP//DWaSuXZpQT/4mA+7k8y8M5NJ5gD4b5IKQpYg9UfN00EGnWQzQfoeIJfP6sYdkaHyubtGCE3vDwoARTtW2HakVEk3KXey3tVtmFJPayIwDXqtqWAHCloReeNEn2fsrzzU5nx7Qnc3EEWPpDTYjnmsK/pZ62MvMkOsDLeeW482j7D2BDF6OjCC+ExpQ8afWGDTJQ8ZpbZdylpFrI0BPLfr5q+1jYdCOhHHxTyBOAkw5eLjiBzGkWlTMYOzAHO2Fl0e5GPIPL6gdlEHFRdwAWDRIXbV0tnbyEus8Sh1io1DssabAOPIK2WU5ak3AJZctV3oTByJyWs1oJOMNuMdCEnDq8+KKeWZamJaXlkEWF2bEW292zVIJVzZ2FRu1Le2qVxR0117k5z621gct2lTvAOXhzLse27zoan10EeWVXkyieCO9mh3L4nsH6jiUiPhLg4rzwQ6VHreIsNcWuUVSyJpjI64+mMMUSE6OEY8pv8nj2iekIHse585F/yJKaRmltBlaVOmdCqrP2uRQCMjeALxSNnAnmGkkcA2YIRbnAHTNrAT6oDaZCSwoQQfGcV5+kYOqeCMj4CNrUxsR00htKHqqHOxYJBZl5aBQSixQPzJ0fEVSe05eIhJftpigmyBk4spX9ETs1uMNrJCviAOntJ/PKRMKEjNuorHZFMCVsUB20lOBjym2VRhmrJHpwh8RVp4ugFq35RWzXrXRngp/+8UCzR9qSy5ZEOR9Sv/UKKj70IKP/awqY/xBh8BP3uxIrEYix99FM7yqpS0E8vbeCila/7ONRIHLC902d0Sv9S+xHLR6Ncr2OKKUcdfWXrcMdckRhKlI7dTbjF4cwXnN/5+2d/lNW5JmGOjiAm54G/Li48umVKyuZFS2zeDu8Tj0v4SB/+pYOXupwKPFHuQ4P0PEpG/fPb8E/kNc/lH/6vwAZUAAAAASUVORK5CYII=",
+                                alt: "",
+                                width: 48,
+                                height: 48
+                            })
+                        })
+                    }), 
+                        
+                               
+                        Object(B.jsx)(G.a, {
+                        item: !0,
+                        children: Object(B.jsx)("a", {
                             href: "https://twitter.com/VineyardMiner",
                             target: "__blank",
                             children: Object(B.jsx)("img", {
