@@ -300,7 +300,7 @@
                         Object(B.jsx)(V.a, {
                         variant: "h6",
                         marginTop: 0,
-                        children: "[App Launch: 3/26 7PM-UTC]"
+                        children: "[App Status: OPEN]"
                     }),
                 
                 
