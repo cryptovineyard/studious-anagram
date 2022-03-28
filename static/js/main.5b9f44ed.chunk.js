@@ -874,9 +874,17 @@
                             variant: "body2",
                             marginTop: 2,
                             paddingX: 3,
-                            children: "Earn 12% of the MATIC used to hire makers from anyone who uses your referral link"
+                            children: "Earn 12% of the MATIC used to hire makers from anyone who uses your referral link!"
                             
                         }), Object(B.jsx)(V.a, {
+                            textAlign: "center",
+                            variant: "body2",
+                            marginTop: 2,
+                            paddingX: 3,
+                            children: "The referall rewards are sent to your pending rewards!"
+                            
+                        }),       
+                            Object(B.jsx)(V.a, {
                             textAlign: "center",
                             variant: "body2",
                             marginTop: 2,
