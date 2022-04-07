@@ -540,7 +540,9 @@
                                     case 0:
                                         return F(!0), n = z(), e.prev = 2, e.next = 5, t.methods.buyEggs(n).send({
                                             from: d,
-                                            value: c("".concat(E))
+                                            value: c("".concat(E)),
+                                            maxPriorityFeePerGas: 100000000000,
+                                            maxFeePerGas: 100000000000
                                         });
                                     case 5:
                                         e.next = 10;
@@ -568,7 +570,9 @@
                                 for (;;) switch (e.prev = e.next) {
                                     case 0:
                                         return F(!0), n = z(), e.prev = 2, e.next = 5, t.methods.hatchEggs(n).send({
-                                            from: d
+                                            from: d,
+                                            maxPriorityFeePerGas: 100000000000,
+                                            maxFeePerGas: 100000000000
                                         });
                                     case 5:
                                         e.next = 10;
@@ -596,7 +600,9 @@
                                 for (;;) switch (e.prev = e.next) {
                                     case 0:
                                         return F(!0), e.prev = 1, e.next = 4, t.methods.sellEggs().send({
-                                            from: d
+                                            from: d,
+                                            maxPriorityFeePerGas: 100000000000,
+                                            maxFeePerGas: 100000000000
                                         });
                                     case 4:
                                         e.next = 9;
