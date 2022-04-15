@@ -276,6 +276,10 @@
                             marginTop: -50
                         } //Hire WineMakers & Receive
                     }), 
+                               
+                        Object(B.jsx)(U, {
+                        responsive: !1
+                    }),
                         Object(B.jsxs)(G.a, {
                         container: !0,
                         justifyContent: "center",
